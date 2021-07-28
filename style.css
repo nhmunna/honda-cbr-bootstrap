@@ -10,3 +10,6 @@
 .para-color{
     color: #E76F51;
 }
+.grayscale img{
+    filter: grayscale(100%);
+}
