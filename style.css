@@ -13,3 +13,12 @@
 .grayscale img{
     filter: grayscale(100%);
 }
+.color{
+    color: #E76F51;
+}
+.fas.fa-star{
+    color: #E76F51;
+}
+.far.fa-star{
+    color: #E76F51;
+}
